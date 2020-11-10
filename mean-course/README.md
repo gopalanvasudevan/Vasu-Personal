@@ -1,6 +1,6 @@
 # MeanCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7. Dated 10-Nov-2020
 
 ## Development server
 
